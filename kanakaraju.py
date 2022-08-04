@@ -1,1 +1,2 @@
-print('VIJAY')
+print('VIJAY');
+print("sathi reddy")
